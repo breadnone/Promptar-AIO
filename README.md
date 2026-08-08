@@ -20,5 +20,9 @@ All in one AI gen stuff powered by KoboldCpp
 - Live audio transcription overlay (Live Mic & Speakers supported)  
 - Live audio translation overlay (Live Mic & Speakers supported)  
 
+### TODO  
+- Fix agentic workflow for "Text" mode.  
+- More testing.  
+
 ### Built for KoboldCpp Desktop Front End  
 - Still actively being vibe-coded, schloppity-schlappity, token-waster9000, prompt-engineering, ai-grooming-HD1080p  
