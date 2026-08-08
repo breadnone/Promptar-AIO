@@ -6,7 +6,7 @@ All in one AI gen stuff powered by KoboldCpp
 - Supported backend : Vulkan, CUDA, CPU  
 
 ### AIO   
-- Text  
+- Text (agentic workflow, drafter/planner)  
 - Vision  
 - Tex2Image  
 - Tex2Video (Experimental)  
