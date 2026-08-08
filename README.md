@@ -12,5 +12,8 @@ All in one AI gen stuff powered by KoboldCpp
 - Tex2Video (Experimental)  
 - Whisper  
 - Tex2Audio (Experimental)  
-  
+- Live audio subtitle overlay  
+- Live audio transcription overlay  
+- Live audio translation overlay  
+
 ### Built for KoboldCpp Desktop Front End  
