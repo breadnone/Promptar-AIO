@@ -22,4 +22,3 @@ All in one AI gen stuff powered by KoboldCpp
 
 ### Built for KoboldCpp Desktop Front End  
 - Still actively being vibe-coded, schloppity-schlappity, token-waster9000, prompt-engineering, ai-grooming-HD1080p  
-- Why anime girl as screenshot? I heard anime stuff will bring be tons of github stars!
