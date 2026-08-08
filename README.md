@@ -4,7 +4,8 @@ All in one AI gen stuff powered by KoboldCpp
 
 ### Full Locally Hosted LLMs or SLMs  
 - Bring Your Own GGUF (BYOG) models and just chuck them in.  
-- Supported backend : Vulkan, CUDA, CPU  
+- Supported backend : Vulkan, CUDA, CPU
+- Supported models MUST look at KoboldCpp wiki page.
 
 ### AIO   
 - Text (agentic workflow, drafter/planner)  
