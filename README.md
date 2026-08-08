@@ -1,6 +1,7 @@
 # Promptar-AIO  
 All in one AI gen stuff powered by KoboldCpp  
-<img width="1492" height="1001" alt="image" src="https://github.com/user-attachments/assets/4530a7de-f2f4-4153-bb23-a809c811e99d" />
+<img width="1493" height="1000" alt="image" src="https://github.com/user-attachments/assets/506abf76-b4b4-4332-a877-05b206750f21" />
+
 
 ### Full Locally Hosted LLMs or SLMs  
 - Bring Your Own GGUF (BYOG) models and just chuck them in.  
