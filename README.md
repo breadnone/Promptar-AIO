@@ -15,6 +15,7 @@ All in one AI gen stuff powered by KoboldCpp
 - Tex2Video (Experimental)  
 - Whisper  
 - Tex2Audio (Experimental)  
+- Audio cloning (Experimental)
 - Live audio subtitle overlay (Live Mic & Speakers supported)  
 - Live audio transcription overlay (Live Mic & Speakers supported)  
 - Live audio translation overlay (Live Mic & Speakers supported)  
